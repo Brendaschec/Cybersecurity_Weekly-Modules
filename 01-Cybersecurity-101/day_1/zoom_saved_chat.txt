@@ -1,0 +1,62 @@
+18:24:28 From Dupree Arter to Everyone:
+	I am a little nervous
+18:24:47 From Lisa Suzanne Turner to Everyone:
+	Excited and nervous.
+18:25:00 From Schecher, Brenda to Everyone:
+	Nervous!! :)
+18:25:41 From Max Aidala to Everyone:
+	been a little nervous all week lol. we got this
+18:26:10 From Tyreek Fairfax to Everyone:
+	definitely nervous
+18:36:21 From Dupree Arter to Everyone:
+	@colleen, can you send that link to GitHub again?
+18:36:54 From Geoffrey Ozoemena to Everyone:
+	Nice
+18:37:27 From Fior, Thomas to Everyone:
+	https://upenn.bootcampcontent.com/-/profile/applications
+19:20:40 From Colleen Kennedy (she/her) to Everyone:
+	Great meeting you all, see you again on Thursday at Office Hours - if you need me in the meantime please ping me on Slack or email ckennedy1@bootcampspot.com
+19:24:24 From Kassim, Aakhil (aaky) to Everyone:
+	Sorry for not raising my hand!
+19:31:43 From Alyssa Yancey to Everyone:
+	Security for computers
+19:33:08 From Lisa Suzanne Turner to Everyone:
+	Network Integrity
+20:18:16 From Daghor, Nadjat (she/her) to Everyone:
+	how do you post questions on slack?
+20:18:22 From Omar Rayo to Everyone:
+	I did too
+20:19:21 From Max Aidala to Everyone:
+	@Nadjat you can send a message with your question in the Live channel
+20:19:21 From Dupree Arter to Everyone:
+	@nadjat, its a section called live on the side
+20:20:52 From Daghor, Nadjat (she/her) to Everyone:
+	I can't find it
+20:23:38 From Eric Potter to Everyone:
+	anyone having trouble with Slack, during office hours after class today, I will screen share and show some of the important features.
+20:23:50 From Eric Potter to Everyone:
+	and then we will talk about GitLab
+20:26:22 From Dupree Arter to Everyone:
+	UPENN-VIRT-CYBER-PT-11-2022-U-LOLC
+20:26:32 From Grabinski, Michael (TA) to Everyone:
+	https://upennvirtcybe-qik3903.slack.com/x-p4191032307894-4446532651537-4419351170503/messages/C045TK16Q74
+21:29:00 From Dupree Arter to Everyone:
+	Integrity
+21:29:55 From Geoffrey Ozoemena to Everyone:
+	9] integrity all day
+21:30:16 From john woodson to Everyone:
+	integrity.
+21:40:12 From Tatiyanna Mintz to Everyone:
+	SAME!
+21:40:47 From Kassim, Aakhil (aaky) to Everyone:
+	I think vagrant is just a command line program in your PATH varible
+21:45:10 From Donovan Lipscomb to Everyone:
+	So basically its DISCORD for Professional work.
+21:48:05 From Lisa Suzanne Turner to Everyone:
+	Right!
+21:48:42 From Eric Potter to Everyone:
+	https://upenn.bootcampcontent.com/
+22:00:13 From john woodson to Everyone:
+	I didn't see GitLab in the prework either.
+22:05:46 From john woodson to Everyone:
+	i find the link in the calendar.
